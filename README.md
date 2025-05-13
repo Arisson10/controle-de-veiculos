@@ -1,12 +1,25 @@
-# React + Vite
+# 🚗 Sistema de Controle de Estacionamento
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um sistema simples de controle de estacionamento desenvolvido em **React JS** com **Vite**, como parte de um desafio prático. Ele permite cadastrar reservas de vagas de estacionamento, listar veículos e visualizar quais vagas estão disponíveis.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/)
+- CSS Puro (customizado)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Funcionalidades
+
+✅ Cadastro de veículos  
+✅ Lista de veículos cadastrados  
+✅ Remoção de veículos  
+✅ Identificação de vagas disponíveis  
+✅ Navegação com rotas entre páginas  
+✅ Componentização e gerenciamento de estado com `useState` e `useMemo`  
+✅ Estilização com CSS modular e responsivo  
+✅ Estrutura de projeto seguindo padrão MVVM simplificado
